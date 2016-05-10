@@ -1,0 +1,3 @@
+El usuario inicia un proceso de registro a través de la IU, ingresando los datos de usuario(1). 
+La IU envia los datos al gestor de usuarios(2), este valida los datos y los guarda(3,4). Por ultimo el gestor 
+de notificaciones procede a crear y enviar las notificaciones correspondientes(5,6).
